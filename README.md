@@ -1,14 +1,98 @@
-# screenshot![Screenshot (6)](https://github.com/subhankarmaji12/Sales-Analysis-With-Python/assets/169612537/84a06d13-f4de-4f9c-910e-a9560ab5bae9)
-![Screenshot (20)](https://github.com/subhankarmaji12/Sales-Analysis-With-Python/assets/169612537/19146e77-9172-4d21-a671-64323d7d8f42)
-![Screenshot (18)](https://github.com/subhankarmaji12/Sales-Analysis-With-Python/assets/169612537/66c97b88-81b4-4f50-b3c5-c3641f0c4aae)
-![Screenshot (17)](https://github.com/subhankarmaji12/Sales-Analysis-With-Python/assets/169612537/83d9bb4f-ab73-4496-93d7-15390d380390)
-![Screenshot (16)](https://github.com/subhankarmaji12/Sales-Analysis-With-Python/assets/169612537/74307ace-b452-4c0a-8390-17e7d3bad067)
-![Screenshot (15)](https://github.com/subhankarmaji12/Sales-Analysis-With-Python/assets/169612537/20a2fda2-5b38-40d9-8e5f-66e32cee3a02)
-![Screenshot (14)](https://github.com/subhankarmaji12/Sales-Analysis-With-Python/assets/169612537/56a0c069-8ea6-4e55-8f49-0dfef1df1b0a)
-![Screenshot (13)](https://github.com/subhankarmaji12/Sales-Analysis-With-Python/assets/169612537/d2c79fbc-b46a-41da-8ce9-140237db5932)
-![Screenshot (12)](https://github.com/subhankarmaji12/Sales-Analysis-With-Python/assets/169612537/cd2fa588-422b-4769-adde-ab90230d973c)
-![Screenshot (11)](https://github.com/subhankarmaji12/Sales-Analysis-With-Python/assets/169612537/ac4ca92c-27bc-4616-9e8c-46e3b4bdc29c)
-![Screenshot (10)](https://github.com/subhankarmaji12/Sales-Analysis-With-Python/assets/169612537/d207ff26-bc69-4e4d-b75a-a9ee6eda30d2)
-![Screenshot (9)](https://github.com/subhankarmaji12/Sales-Analysis-With-Python/assets/169612537/0c0139d6-28a4-4dc0-a25d-fd0574e176b3)
-![Screenshot (8)](https://github.com/subhankarmaji12/Sales-Analysis-With-Python/assets/169612537/670baf0a-1018-48bc-b998-7e466c4afb0d)
-![Screenshot (7)](https://github.com/subhankarmaji12/Sales-Analysis-With-Python/assets/169612537/95312f80-9a36-4a81-bf04-b9a9084d9779)
+# Python Diwali Sales Analysis
+<img src="https://github.com/subhankarmaji12/Sales-Analysis-With-Python/blob/main/salebanner.jpeg?raw=true" width="1000"/>
+## 🎁 Overview
+
+    This project involves the analysis of Diwali sales data using Python, focusing on customer behavior, sales trends, and key insights. The analysis includes comprehensive visualizations and summaries to help businesses 
+    make strategic decisions.
+
+
+
+## 🗂️ Project Files
+
+    - *Python_Diwali_Sales_Analysis.ipynb*: Jupyter Notebook containing the Python code for data analysis and visualization.
+    - *Diwali Sales Data.csv*: Dataset used for analysis, containing customer demographics, sales details, and product information.
+
+
+
+## 🔍 Key Features
+
+    - *Data Preprocessing*:
+      - Dropped irrelevant columns.
+      - Handled missing values.
+      - Standardized column names for consistency.
+      - Converted data types for efficient analysis.
+
+- *Exploratory Data Analysis (EDA)*:
+  
+      - Gender-based purchasing patterns.
+      - Age group distribution and total sales analysis.
+      - State-wise orders and sales amount.
+      - Marital status and gender-wise purchasing behavior.
+      - Occupation trends in buyers.
+      - Product category popularity and sales trends.
+
+---
+
+## 📊 Insights
+
+    ### 1. *Gender*
+    - Most buyers are *females, and they have a **higher purchasing power* than males.
+    
+    ### 2. *Age*
+    - The *26-35 years* age group is the most active in purchasing, particularly among females.
+    
+    ### 3. *Top States*
+    - *Uttar Pradesh, **Maharashtra, and **Karnataka* lead in terms of total orders and sales amount.
+    
+    ### 4. *Marital Status*
+    - Married women show significantly *higher purchasing power*.
+    
+    ### 5. *Occupation*
+    - Most buyers work in *IT, **Healthcare, and **Aviation*.
+    
+    ### 6. *Product Categories*
+    - *Food, **Clothing, and **Electronics* are the top-performing categories in terms of sales.
+    
+    ---
+
+## 📈 Visualizations
+
+   <img src="https://github.com/subhankarmaji12/Sales-Analysis-With-Python/blob/main/bar%20chart.jpeg?raw=true" width="1000"/>
+   
+    The project uses *Matplotlib* and *Seaborn* to create insightful visualizations:
+    - Bar charts for gender, age group, marital status, and occupation distributions.
+    - State-wise analysis of orders and sales.
+    - Product category trends with top-performing categories highlighted.
+  
+  ---
+
+## 🛠️ Technologies Used
+
+    - *Python*: Data analysis and visualization.
+    - *Pandas*: Data manipulation and preprocessing.
+    - *NumPy*: Numerical computations.
+    - *Matplotlib* and *Seaborn*: Visualization libraries.
+
+---
+
+## 🎯 Key Learning Outcomes
+
+    This analysis highlights important consumer insights and sales trends that can help businesses tailor their marketing strategies. By understanding buyer demographics and preferences, companies can optimize their sales performance during festive seasons like Diwali.
+
+---
+
+## 🗋 How to Run
+
+    1. Clone the repository and ensure the dataset file (Diwali Sales Data.csv) is in the same directory as the Jupyter Notebook.
+    2. Install the required Python libraries:
+       bash
+       pip install pandas numpy matplotlib seaborn
+       
+    3. Open the Python_Diwali_Sales_Analysis.ipynb file in Jupyter Notebook or any compatible IDE.
+    4. Run the notebook to reproduce the analysis and visualizations.
+
+---
+
+## 📜 Conclusion
+
+This project provides actionable insights into the *Diwali Sales Data*, enabling businesses to focus on key buyer segments and high-performing product categories. The findings serve as a basis for strategic decision-making to maximize sales and customer satisfaction.
